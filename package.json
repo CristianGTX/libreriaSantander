@@ -1,0 +1,14 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "libreria santander",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "santander"
+  ],
+  "author": "Cristian Scalzone",
+  "license": "ISC"
+}
